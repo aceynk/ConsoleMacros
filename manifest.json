@@ -1,0 +1,12 @@
+{
+  "Name": "ConsoleMacros",
+  "Author": "aceynk",
+  "Version": "1.0.0",
+  "Description": "Allows the creation of 'command packs' (macros) for SMAPI commands.",
+  "UniqueID": "aceynk.macro",
+  "EntryDll": "ConsoleMacros.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Github:aceynk/ConsoleMacros"
+  ]
+}
