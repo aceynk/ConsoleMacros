@@ -15,7 +15,7 @@ For help, see: [Modding: Getting Started](https://stardewvalleywiki.com/Modding:
 ## Documentation
 
 This mod uses macros (newline separated SMAPI console commands) registered via file placed in the mod's "Macros" folder
-or registered via [content patcher](https://www.nexusmods.com/stardewvalley/mods/1915?tab=files) edits.
+or via [content patcher](https://www.nexusmods.com/stardewvalley/mods/1915?tab=files) edits.
 
 ### Register via files
 
@@ -35,7 +35,7 @@ player_add (O)192
 Name the file (before the file extension) the name you want the macro to have. For example, ``this_macro.txt`` will
 register a macro with the name ``this_macro``.
 
-And these commands will run sequentially. You can also run a macro from another macro (but be careful to avoid infinite
+These commands will run sequentially. You can also run a macro from another macro (but be careful to avoid infinite
 loops!).
 
 ### Register via Content Patcher
