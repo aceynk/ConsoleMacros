@@ -80,5 +80,4 @@ List all registered macros from all sources.
 
 Usage: ``macro reload``
 
-Invalidate the cached macros. Content Patcher ``patch reload`` commands are still necessary for Content Patcher macros
-to be refreshed.
+Invalidate the cached macros. Patch reloading Content Patcher mods is still necessary for refreshing Content Patcher macros.
